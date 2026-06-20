@@ -1,0 +1,8 @@
+.env
+
+.venv
+venv
+
+*.csv
+
+Bookly_Project_Plan.md
