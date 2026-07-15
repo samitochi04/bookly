@@ -6,3 +6,5 @@ venv
 *.csv
 
 Bookly_Project_Plan.md
+
+bookly_eda.py
