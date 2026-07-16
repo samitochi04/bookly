@@ -8,3 +8,7 @@ venv
 Bookly_Project_Plan.md
 
 bookly_eda.py
+
+bookly_cleaning.py
+
+bookly_feature_engineering.py
