@@ -12,3 +12,7 @@ bookly_eda.py
 bookly_cleaning.py
 
 bookly_feature_engineering.py
+
+bookly_training.py
+
+bookly_model.pkl
