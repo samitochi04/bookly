@@ -15,22 +15,25 @@ bookly_feature_engineering.py
 
 bookly_training.py
 
+.DS_Store
 
 detailed_explanation.md
 
 __pycache__
 
 # TO remove
+Venu's work:
 publisher_encoding.pkl
 global_mean.pkl
 feature_columns.json
 bookly_model.pkl
 author_encoding.pkl
 
+Yashu's work:
 config.toml
 predictor.py
 app.py
-
 app_screenshot.png
 
-.DS_Store
+
+commands.txt
