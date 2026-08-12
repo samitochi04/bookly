@@ -21,13 +21,6 @@ detailed_explanation.md
 __pycache__
 
 # TO remove
-bookly_model_training.ipynb
-plot_06_model_comparison.png
-plot_07_tuning_results.png
-plot_08_actual_vs_predicted.png
-plot_09_residuals.png
-plot_10_learning_curve.png
-
 publisher_encoding.pkl
 global_mean.pkl
 feature_columns.json
@@ -39,3 +32,5 @@ predictor.py
 app.py
 
 app_screenshot.png
+
+.DS_Store
