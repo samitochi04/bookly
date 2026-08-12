@@ -27,13 +27,13 @@ publisher_encoding.pkl
 global_mean.pkl
 feature_columns.json
 bookly_model.pkl
-author_encoding.pkl
+author_encoding.pkl in app folder
 
 Yashu's work:
-config.toml
-predictor.py
-app.py
-app_screenshot.png
+config.toml  app folder
+predictor.py   app folder
+app.py in app folder
+app_screenshot.png in report folder
 
 
 commands.txt
