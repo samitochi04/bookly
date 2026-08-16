@@ -1,0 +1,39 @@
+.env
+
+.venv
+venv
+
+*.csv
+
+Bookly_Project_Plan.md
+
+bookly_eda.py
+
+bookly_cleaning.py
+
+bookly_feature_engineering.py
+
+bookly_training.py
+
+.DS_Store
+
+detailed_explanation.md
+
+__pycache__
+
+# TO remove
+Venu's work:
+publisher_encoding.pkl
+global_mean.pkl
+feature_columns.json
+bookly_model.pkl
+author_encoding.pkl in app folder
+
+Yashu's work:
+config.toml  app folder
+predictor.py   app folder
+app.py in app folder
+app_screenshot.png in report folder
+
+
+commands.txt
